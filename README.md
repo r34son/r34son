@@ -17,7 +17,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=r34son&show_icons=true&theme=radical&hide_border=true&locale=en" alt="r34son" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=r34son&theme=radical&hide_border=true&layout=compact" alt="r34son" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=r34son&langs_count=8&theme=radical&hide_border=true&layout=compact" alt="r34son" /></p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
