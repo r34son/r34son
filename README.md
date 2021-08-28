@@ -14,6 +14,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=r34son&show_icons=true&theme=radical&hide_border=true&locale=en" alt="r34son" /></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@r34son&theme=radical&hide_border=true&layout=compact" alt="r34son" /></p>
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://instagram.com/r34son" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r34son" height="30" width="40" /></a>
