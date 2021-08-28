@@ -6,3 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021-2022 Goals: More and more development
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r34son&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r34son&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![r34son's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r34son)](https://github.com/anuraghazra/github-readme-stats)
