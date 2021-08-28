@@ -1,6 +1,6 @@
-### Hi there, I'm Yahub - aka [r34s0n] 👋
+### Hi there, I'm Yahub - aka [r34son] 👋
 
 ## Great Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020-2021 Goals: More and more development
+- 🥅 2021-2022 Goals: More and more development
