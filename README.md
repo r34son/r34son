@@ -20,7 +20,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=r34son&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="r34son" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r34son&theme=dark" alt="r34son" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r34son&theme=radical" alt="r34son" /></p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
