@@ -20,8 +20,9 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=r34son&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="r34son" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r34son&theme=radical&hide_border=true" alt="r34son" /></p>
-
+ 
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://t.me/r34son" target="blank"><img align=top src="https://user-images.githubusercontent.com/43549299/172217991-a70b7783-0139-481f-be32-6727caf8d72c.svg" height="30" alt="telegram" width="40"></a>
 <a href="https://instagram.com/r34s0ff" target="blank"><img align="center" src="https://user-images.githubusercontent.com/43549299/172218266-0f3cd7d8-bd1d-4e77-a3a1-58a451480b4e.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/r34s0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r34s0n" height="30" width="40" /></a>
