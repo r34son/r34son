@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=r34son&icon=2&color=6)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021-2022 Goals: More and more development
+- 🥅 2023-2024 Goals: More and more development
 
 
 📫 How to reach me **seitasanov.yahub@gmail.com**
