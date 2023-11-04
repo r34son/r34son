@@ -1,4 +1,4 @@
-### Hi there, I'm Yahub - aka [r34son] 👋
+### Hi there, I'm Iakhub - aka [r34son] 👋
 
 ## Great Developer!
 
